@@ -1,6 +1,6 @@
 ![toolxox com-enhanced-XArSH6gzj7Wt82PRCZFK9Tu4dV0EBy](https://github.com/user-attachments/assets/2a98fd72-41d2-4c19-8493-cae0067bae26)
 
-Blender glTF 2.0 Importer and Exporter
+Ashwanth Blender glTF 2.0 Importer and Exporter
 ======================================
 
 Documentation
